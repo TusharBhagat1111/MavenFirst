@@ -6,5 +6,8 @@ public class GitMavenPractise {
 		// TODO Auto-generated method stub
 
 	}
+	public void m1(){
+	bug no 200;
+	}
 
 }
